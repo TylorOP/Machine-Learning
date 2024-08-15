@@ -1,1 +1,10 @@
 Full Pandas code
+
+
+Day 5 loc and iloc
+
+loc must have column name 
+iloc must have integer as column name 
+if not follow the it throw KeyError for loc
+and IndexError for iloc and use [] square bracket 
+for slicing and multiple row or column accessing in df
